@@ -1,4 +1,4 @@
-#Curso de Orientación Vocacional
+# Curso de Orientación Vocacional
 
 Obtén las herramientas para encontrar tu vocación y definir tu propósito de vida. Diseña un estilo de vida que se acomode a tus intereses y aspiraciones, aprovechando tus talentos para generar un impacto en el mundo. Con lo que aprendas en este curso podrás asegurarte de trabajar en lo que te apasiona y amar lo que haces.
 
